@@ -6,7 +6,7 @@ Hier sind die Herstellerseiten und eine kurze Anleitung zur Nutzung der gefragte
 
 ## Rufus
 
-- **Herstellerwebseite:** https://rufus.ie/de/[^3][^9]
+- **Herstellerwebseite:** https://rufus.ie/de/
 - **Kurzanleitung:**
     - ISO der gewünschten Linux-Distribution herunterladen.
     - Rufus starten (keine Installation nötig, einfach die .exe ausführen, Windows erforderlich).
@@ -18,7 +18,7 @@ Hier sind die Herstellerseiten und eine kurze Anleitung zur Nutzung der gefragte
 
 ## Balena Etcher
 
-- **Herstellerwebseite:** https://www.balena.io/etcher/[^6][^2]
+- **Herstellerwebseite:** https://www.balena.io/etcher/
 - **Kurzanleitung:**
     - ISO-Datei der Linux-Distribution laden.
     - Balena Etcher herunterladen und starten (funktioniert unter Windows, Linux, macOS, meist ohne Installation).
