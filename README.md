@@ -1,5 +1,6 @@
 <!--![Linux-Ventoy](https://github.com/user-attachments/assets/b672d4dc-df76-4e1b-8bbb-ea1815a61aa1)-->
 ![Linux-Ventoy](https://github.com/cxbignekoc/Linux-Einstieg-Ventoy-Methode/blob/6546a04c887d5fdd71cebeb6832f684957a7f852/Linux-Ventoy.webp)
+
 Rufus, Balena Etcher, UNetbootin, Ventoy
 
 Hier sind die Herstellerseiten und eine kurze Anleitung zur Nutzung der gefragten Programme, die besonders für Anfänger geeignet sind, um Linux bootfähig auf einem USB-Stick zu installieren oder zu nutzen:
